@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "grabsampling"]
+	path = grabsampling
+	url = https://github.com/mayooran1987/grabsampling
+	shallow = true
+	registered = true
